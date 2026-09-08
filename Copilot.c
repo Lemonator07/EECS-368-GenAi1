@@ -1,3 +1,14 @@
+/*
+Copilot.C
+C program that picks has a secret number between 1 and 10; the user gets 3 tries to guess the number
+Inputs: Int from user
+Outputs: Text from program
+Sources: Copilot, Claude
+Author: Carson Lemon
+Creation Date: 9/8/2026
+    */
+
+
 #include <stdio.h>
 
 int main() {
